@@ -1,0 +1,34 @@
+{
+  "name": "eslint-config-roboleary-base",
+  "author": "Rob O'Leary",
+  "version": "0.1.0",
+  "description": "My base JS ESLint config that extends eslint-config-airbnb-base.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robole/eslint-config-roboleary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robole/eslint-config-roboleary/issues"
+  },
+  "homepage": "https://github.com/robole/eslint-config-roboleary#readme",
+  "license": "ISC",
+  "funding": {
+    "type": "individual",
+    "url": "https://ko-fi.com/roboleary"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "eslint",
+    "node",
+    "lint",
+    "config",
+    "prettier",
+    "eslint-prettier",
+    "prettier-eslint"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-airbnb-base": ">=14.2.1"
+  }
+}
