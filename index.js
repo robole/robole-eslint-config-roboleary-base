@@ -17,5 +17,6 @@ module.exports = {
     "prefer-const": "off",
     radix: "off",
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
+    "no-return-assign": ["error", "except-parens"],
   },
 };
