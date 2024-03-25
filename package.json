@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-roboleary-base",
   "author": "Rob O'Leary",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "My base JS ESLint config that extends eslint-config-airbnb-base.",
   "repository": {
     "type": "git",
@@ -29,6 +29,6 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "eslint-config-airbnb-base": ">=14.2.1"
+    "eslint-config-airbnb-base": "^15.0.0"
   }
 }
